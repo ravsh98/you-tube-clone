@@ -207,4 +207,23 @@ html::-moz-scrollbar-thumb {
 html::-ms-scrollbar-thumb {
   background-color: #888;
   border-radius: 6px;
+
+}
+
+.video-card{
+	display: flex;
+	gap: 3rem;
+
+}
+
+.video1{
+	display: flex;
+	
+	flex-direction: column;
+}
+
+.se{
+	display: flex;
+	flex-direction: column;
+	
 }

@@ -247,11 +247,18 @@ html::-ms-scrollbar-thumb {
 	width: 100%;
 	border-radius: 10px;
 	height: 220px;
+	display: flex;
 }
 .video-card > iframe:hover{
 	border-radius: 0;
+	display: contents;
+	
 }
 
 .video-card{
 width: 32%;
+display: contents;
+align-items: center;
+justify-content: center;
+gap: 1rem;
 }
